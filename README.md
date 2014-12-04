@@ -3,7 +3,10 @@ learngit
 
 
 
-add some text
+Add some text
+
+
+Create a new branch is quick.
 
 
 
